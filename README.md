@@ -5,7 +5,7 @@
 This project consists of a demonstration of the use of the OpenLayers library using
 IBGE WMS data.
 
-![Map presentation](https://github.com/hugoespinelli/mapa_neonatalidade_ibge/gif-presentation.gif)
+![Map presentation](https://github.com/hugoespinelli/mapa_neonatalidade_ibge/blob/main/gif-presentation.gif)
 
 ## Installation
 
