@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/Inter.ttf');
+}
+@import 'variables';
+@import 'scaffolding';
+
+#root {
+  background-color: #1a1c20;
+}
+
+h3 {
+  color: #fcf1f1;
+}
+
+.btn {
+  border-color: #f9813a;
+  color: #fcf1f1;
+}
+
+.btn:hover {
+  background-color: #f9813a;
+}
+
+#map {
+  width: 90%;
+  height: 400px;
+}
