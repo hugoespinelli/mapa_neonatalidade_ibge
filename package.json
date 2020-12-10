@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:taniarascia/webpack-boilerplate"
+    "url": "https://github.com/hugoespinelli/mapa_neonatalidade_ibge"
   },
   "dependencies": {
     "ol": "^6.4.3"
